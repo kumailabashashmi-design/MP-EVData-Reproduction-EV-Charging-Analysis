@@ -1,0 +1,4 @@
+Cluster,Average_Load_kW,Peak_Load_kW,Minimum_Load_kW,Number_of_Profiles,Load_Pattern
+0,629.0057153147163,1372.4420212765958,304.2022606382979,752,Moderate charging demand
+1,109.5158019607843,402.60781176470584,16.484,2125,Low utilization charging pattern
+2,1084.5910174515698,5975.975150300601,0.8925851703406813,499,High-intensity commercial charging
